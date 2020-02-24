@@ -1,2 +1,2 @@
 # HarbourCSharpCertificates
-DLL para acesso às classes .NET para manipulação de certificados digitais X509
+DLL para acesso via Harbour às classes .NET para manipulação de certificados digitais X509
